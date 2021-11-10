@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/css3.png
+    image: /images/2_thumb.jpg
     image_alt: App preview
     title: hola bienvenidos
     content: >-
